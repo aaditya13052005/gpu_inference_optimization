@@ -1,0 +1,10 @@
+{
+    "metrics": {
+        "model_name": "resnet50",
+        "precision": "fp32",
+        "batch_size": 16,
+        "avg_time_ms": 45.747265625,
+        "total_flops_gflops": 64.0,
+        "kernel_launches": 50
+    }
+}

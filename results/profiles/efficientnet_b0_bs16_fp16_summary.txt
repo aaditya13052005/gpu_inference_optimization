@@ -1,0 +1,10 @@
+{
+    "metrics": {
+        "model_name": "efficientnet_b0",
+        "precision": "fp16",
+        "batch_size": 16,
+        "avg_time_ms": 13.231529541015625,
+        "total_flops_gflops": 9.6,
+        "kernel_launches": 50
+    }
+}

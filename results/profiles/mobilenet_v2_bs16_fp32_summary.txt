@@ -1,0 +1,10 @@
+{
+    "metrics": {
+        "model_name": "mobilenet_v2",
+        "precision": "fp32",
+        "batch_size": 16,
+        "avg_time_ms": 14.52442138671875,
+        "total_flops_gflops": 9.6,
+        "kernel_launches": 50
+    }
+}
